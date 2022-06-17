@@ -1,4 +1,3 @@
-//striver sol
 
 // in canFill function ==> moving from left to right so we have to check only for 3 directions (left, upperleft diagonal and lowleft diagonal) 
 
